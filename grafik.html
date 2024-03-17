@@ -1,0 +1,30 @@
+Grafik Balok
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grafik Balok</title>
+</head>
+<body>
+  <canvas id="myChart" width="400" height="200"></canvas>
+  <script src="https://files.monytccc.eu.org/analisis294.js"></script>
+  <script>
+    // Data
+    var data = {
+      labels: ["Januari", "Februari", "Maret", "April", "Mei", "Juni"],
+      datasets: [{
+        data: [0, 100, 200, 300, 400, 500, 600],
+        label: "Contoh Grafik",
+        backgroundColor: ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#00ffff", "#ff00ff"]
+      }]
+    };
+
+    // Chart
+    var myChart = new Chart(document.getElementById("myChart"), {
+      type: "bar",
+      data: data,
+      barMode: "stack"
+    });
+  </script>
+</body>
+</html>
