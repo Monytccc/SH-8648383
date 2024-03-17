@@ -1,0 +1,274 @@
+DATA ANALISIS DI WEBSITE
+
+TABEL
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TABEL</title>
+</head>
+<body>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Kategori</th>
+      <th>Nilai</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+
+DIAGRAM BATANG
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DIAGRAM BATANG</title>
+</head>
+<body>
+
+<script src="https://files.monytccc.eu.org/analisis380.js"></script>
+
+<canvas id="myChart" width="400" height="400"></canvas>
+
+<script>
+  var ctx = document.getElementById("myChart").getContext("2d");
+  var myChart = new Chart(ctx, {
+    type: "bar",
+    data: {
+      labels: ["A", "B", "C"],
+      datasets: [{
+        data: [10, 20, 30],
+        backgroundColor: ["#ff0000", "#00ff00", "#0000ff"]
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: "Diagram Batang"
+      }
+    }
+  });
+</script>
+
+</body>
+</html>
+
+DIAGRAM GARIS
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DIAGRAM GARIS</title>
+</head>
+<body>
+
+<script src="https://files.monytccc.eu.org/analisis380.js"></script>
+
+<canvas id="myChart" width="400" height="400"></canvas>
+
+<script>
+  var ctx = document.getElementById("myChart").getContext("2d");
+  var myChart = new Chart(ctx, {
+    type: "line",
+    data: {
+      labels: ["Januari", "Februari", "Maret", "April", "Mei"],
+      datasets: [{
+        data: [10, 20, 30, 40, 50],
+        backgroundColor: ["#ff0000", "#00ff00", "#0000ff"]
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: "Diagram Garis"
+      }
+    }
+  });
+</script>
+
+</body>
+</html>
+
+DIAGRAM LINGKARAN
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DIAGRAM LINGKARAN</title>
+</head>
+<body>
+
+<script src="https://files.monytccc.eu.org/analisis380.js"></script>
+
+<canvas id="myChart" width="400" height="400"></canvas>
+
+<script>
+  var ctx = document.getElementById("myChart").getContext("2d");
+  var myChart = new Chart(ctx, {
+    type: "pie",
+    data: {
+      labels: ["A", "B", "C"],
+      datasets: [{
+        data: [10, 20, 30],
+        backgroundColor: ["#ff0000", "#00ff00", "#0000ff"]
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: "Diagram Lingkaran"
+      },
+      legend: {
+        display: true,
+        position: "bottom"
+      }
+    }
+  });
+</script>
+
+DIAGRAM PENCAR
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DIAGRAM PENCAR</title>
+</head>
+<body>
+
+<script src="https://files.monytccc.eu.org/analisis380.js"></script>
+
+<canvas id="myChart" width="400" height="400"></canvas>
+
+<script>
+  var ctx = document.getElementById("myChart").getContext("2d");
+  var myChart = new Chart(ctx, {
+    type: "scatter",
+    data: {
+      labels: ["A", "B", "C"],
+      datasets: [{
+        data: [[10, 20], [20, 30], [30, 40]],
+        backgroundColor: ["#ff0000", "#00ff00", "#0000ff"]
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: "Diagram Pencar"
+      }
+    }
+  });
+</script>
+
+</body>
+</html>
+
+Grafik Garis
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grafik Garis</title>
+</head>
+<body>
+  <canvas id="myChart" width="400" height="200"></canvas>
+  <script src="https://files.monytccc.eu.org/analisis294.js"></script>
+  <script>
+    // Data
+    var data = {
+      labels: ["Januari", "Februari", "Maret", "April", "Mei", "Juni"],
+      datasets: [{
+        data: [100, 200, 300, 400, 500, 600],
+        label: "Jumlah Penjualan",
+        borderColor: "#ff0000",
+        backgroundColor: "#ff0000"
+      }]
+    };
+
+    // Chart
+    var myChart = new Chart(document.getElementById("myChart"), {
+      type: "line",
+      data: data
+    });
+  </script>
+</body>
+</html>
+
+Grafik Batang
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grafik Batang</title>
+</head>
+<body>
+  <canvas id="myChart" width="400" height="200"></canvas>
+  <script src="https://files.monytccc.eu.org/analisis294.js"></script>
+  <script>
+    // Data
+    var data = {
+      labels: ["Januari", "Februari", "Maret", "April", "Mei", "Juni"],
+      datasets: [{
+        data: [100, 200, 300, 400, 500, 600],
+        label: "Jumlah Penjualan",
+        backgroundColor: ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#00ffff", "#ff00ff"]
+      }]
+    };
+
+    // Chart
+    var myChart = new Chart(document.getElementById("myChart"), {
+      type: "bar",
+      data: data
+    });
+  </script>
+</body>
+</html>
+
+Grafik Balok
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grafik Balok</title>
+</head>
+<body>
+  <canvas id="myChart" width="400" height="200"></canvas>
+  <script src="https://files.monytccc.eu.org/analisis294.js"></script>
+  <script>
+    // Data
+    var data = {
+      labels: ["Januari", "Februari", "Maret", "April", "Mei", "Juni"],
+      datasets: [{
+        data: [100, 200, 300, 400, 500, 600],
+        label: "Jumlah Penjualan",
+        backgroundColor: ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#00ffff", "#ff00ff"]
+      }]
+    };
+
+    // Chart
+    var myChart = new Chart(document.getElementById("myChart"), {
+      type: "bar",
+      data: data,
+      barMode: "stack"
+    });
+  </script>
+</body>
+</html>
+
