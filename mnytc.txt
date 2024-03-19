@@ -1,0 +1,166 @@
+<html lang="en" class="notranslate" translate="no">
+<meta charset="UTF-8">
+<meta name="google" content="notranslate">
+<meta name="author" content="mnytc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://files.monytccc.eu.org/cssmnytc.css">
+<body oncontextmenu="return false;" onload="asu()">
+<div class="bgimg mnytc-display-container mnytc-animate-opacity mnytc-text-white">
+  <div class="mnytc-display-middle">
+    <h1 class="mnytc-jumbo mnytc-animate-top">Monytccc</h1>
+    <hr class="mnytc-border-grey" style="margin:auto;width:80%">
+    <p class="mnytc-large mnytc-center">Powered By <a href="https://www.monytccc.eu.org/" target="_blank"> Monytccc</a></p>
+</div>
+</div>
+<hr class="mnytc-border-grey" style="margin:auto;width:100%">
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>About Me</h1>
+      <img src="https://files.monytccc.eu.org/Monytccc.png" class="mnytc-margin mnytc-circle" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">Monytccc is a shared web hosting service for software development projects that uses a monytccc version control system and an internet hosting service. It is widely used for computer code. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and websites for each project.</p>
+      </div>
+    </div>
+<hr class="mnytc-border-grey" style="margin:auto;width:100%">
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Apps Android</h1>
+      <img src="https://files.monytccc.eu.org/mnytc.png" class="mnytc-margin mnytc-circle" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">A mobile application is a computer program designed to run on mobile devices such as mobile phones/tablets or watches. Mobile apps are often thought of as the opposite of a desktop app running on a desktop computer, and with a web app running on the device's web browser.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/apps.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Download</button></a>
+       </div>
+       <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Show Ip</h1>
+      <img src="https://files.monytccc.eu.org/ip-address.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">An Internet Protocol Address (or IP address for short) is a numeric label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses have two main functions: host or network interface identification and location addressing.</p>
+        <p id="p">Internet Protocol version 4 (IPv4) defines an IP address as a 32-bit number. However, due to the growth of the Internet and the depletion of available IPv4 addresses, a new version of IP (IPv6), using 128 bits for IP addresses, was standardized in 1998. The deployment of IPv6 has been going on since the mid-2000s.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/ip.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">IP You</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Ai Massage</h1>
+      <img src="https://files.monytccc.eu.org/ai-bot.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">Chat AI is an artificial intelligence technology designed to interact with humans through conversation platforms such as text messaging, online chat, or voice. Chat AI uses algorithms and machine learning models to understand requests, questions, or statements provided by users and provide responses that are appropriate to the context.</p>
+        <p id="p">Chat AI is used in various applications, including customer service, personal assistants, and chatbots. With Chat AI, companies and organizations can improve the efficiency and quality of customer service, accelerate response times, and reduce operational costs. Chat AI can also help people in their daily lives by providing information or assisting them with specific tasks.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/ai-massage.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Ai Massage</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>YouTube</h1>
+      <img src="https://files.monytccc.eu.org/yt-logo.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">A division of Google Inc., Youtube was established on February 14, 2005. Additionally accessible worldwide is Youtube. An software called Youtube offers videos that include information. If you already have a registered account, you can upload any and all videos you want to this YouTube application. The entire world can view videos that have been uploaded. User-generated video material (produced by the account owner), movie clips, TV clips, music videos, and video blogs, or what is commonly referred to as vlogs, are among the different types of video content that are typically submitted on Youtube.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/youtube.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">YouTube</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Drive Monytccc</h1>
+      <img src="https://files.monytccc.eu.org/drive.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">Monytccc Drive is a synchronized data storage service developed by Google. Launched on April 24, 2019, Monytccc Drive allows users to store data on their servers, synchronize data across different devices, and share files with each other.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/drive.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Drive Monytccc</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Telegram</h1>
+      <img src="https://files.monytccc.eu.org/telegeram.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">The brothers Nikolai and Pavel Durov developed the instant messaging program Telegram. When it comes to overseeing Telegram, both have separate duties. Both the philosophy of Telegram and the continuity of its operations are the responsibility of Pavel. It is well known that Pavel finances Telegram with his own cash.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/telegram.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Telegram</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>GitHub</h1>
+      <img src="https://files.monytccc.eu.org/github.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">GitHub is a web-based platform used for managing and collaborating on software development using the Git version control system. GitHub provides various features that enable software developers to work together on software projects, manage source code, track changes, and collaborate efficiently.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/github.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">GitHub</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>OSINT Monytccc</h1>
+      <img src="https://files.monytccc.eu.org/osint-photo.jpg" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">This website allows you to search for digital traces such movies, images, and others. You can also use this tool to look up someone's information by typing in their name or other information.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/osint.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">OSINT by Monytccc</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Maps</h1>
+      <img src="https://files.monytccc.eu.org/maps.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">Website maps, or sitemaps, are displays of the structure of pages or content on a website. Sitemaps typically contain a list of all the pages or content that can be accessed on a website, and can help users and search engines understand the structure and hierarchy of content on the website.</p>
+        <p id="p">Sitemaps are usually in the form of a text list or visual diagram like a tree, and can be found at the bottom of the website or on a separate page linked from the website. A good sitemap can help users easily navigate the website, while a good sitemap can help search engines understand the structure and hierarchy of content on the website, thus potentially improving the website's ranking on search results.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/maps.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Maps</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Privacy Policy</h1>
+      <img src="https://files.monytccc.eu.org/privacy-policy.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">A privacy policy, often known as a privacy statement, is one of the pages that every website and blog must have. A website's privacy policy guides how it handles visitor information. What information was retrieved and for what purpose was it used?</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/privacy-policy.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Privacy Policy</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Script</h1>
+      <img src="https://files.monytccc.eu.org/script.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">Scripting language (English: scripting language) is a programming language that provides translation and compilation facilities of code in an integrative series of processes so as to enable code that is created to be run as a program dynamically.</p>
+        </div>
+        <a href="https://cyber.monytccc.eu.org/p/script.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Script</button></a>
+        <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+    </div>
+    <div class="copyright">
+    Copyright © 2015 <a href="https://www.monytccc.eu.org/" target="_blank"> Monytccc</a>
+  </div>
+   <script>
+      function asu() {
+        var alter = window.location.href;
+        var slsn = "https://www.monytccc.eu.org/";
+		var slsn1 = "https://www.monytccc.eu.org/?m=1";
+
+        if (alter !== slsn && alter !== slsn1) {
+          alert("The web address does not match what was expected!");
+          window.location.href = slsn;
+        }
+      }
+    </script>
+	<script type="text/javascript">document.oncontextmenu = function() {return false;}</script><script>document.addEventListener("keydown", function(e) { if (e.keyCode === 44) { e.preventDefault(); }});</script>
+</body>
+</html>
