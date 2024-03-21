@@ -53,7 +53,7 @@
         <p id="p">Chat AI is an artificial intelligence technology designed to interact with humans through conversation platforms such as text messaging, online chat, or voice. Chat AI uses algorithms and machine learning models to understand requests, questions, or statements provided by users and provide responses that are appropriate to the context.</p>
         <p id="p">Chat AI is used in various applications, including customer service, personal assistants, and chatbots. With Chat AI, companies and organizations can improve the efficiency and quality of customer service, accelerate response times, and reduce operational costs. Chat AI can also help people in their daily lives by providing information or assisting them with specific tasks.</p>
         </div>
-        <a href="https://cyber.monytccc.eu.org/p/ai-massage.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Ai Massage</button></a>
+        <a href="https://ai.monytccc.eu.org"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Ai Massage</button></a>
         </div>
         <hr class="mnytc-border-grey" style="margin:auto;width:100%">
     </div>
