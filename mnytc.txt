@@ -120,7 +120,7 @@
         <p id="p">Website maps, or sitemaps, are displays of the structure of pages or content on a website. Sitemaps typically contain a list of all the pages or content that can be accessed on a website, and can help users and search engines understand the structure and hierarchy of content on the website.</p>
         <p id="p">Sitemaps are usually in the form of a text list or visual diagram like a tree, and can be found at the bottom of the website or on a separate page linked from the website. A good sitemap can help users easily navigate the website, while a good sitemap can help search engines understand the structure and hierarchy of content on the website, thus potentially improving the website's ranking on search results.</p>
         </div>
-        <a href="https://cyber.monytccc.eu.org/p/maps.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Maps</button></a>
+        <a href="https://maps.monytccc.eu.org"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Maps</button></a>
         </div>
         <hr class="mnytc-border-grey" style="margin:auto;width:100%">
     </div>
