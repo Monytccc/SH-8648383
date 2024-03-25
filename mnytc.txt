@@ -108,7 +108,7 @@
       <div class="mnytc-left-align mnytc-padding-large">
         <p id="p">This website allows you to search for digital traces such movies, images, and others. You can also use this tool to look up someone's information by typing in their name or other information.</p>
         </div>
-        <a href="https://cyber.monytccc.eu.org/p/osint.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">OSINT by Monytccc</button></a>
+        <a href="https://osint.monytccc.eu.org"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">OSINT by Monytccc</button></a>
         </div>
         <hr class="mnytc-border-grey" style="margin:auto;width:100%">
     </div>
