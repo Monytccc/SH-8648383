@@ -149,6 +149,7 @@
     <div class="copyright">
     Copyright © 2015 <a href="https://www.monytccc.eu.org/" target="_blank"> Monytccc</a>
   </div>
+<script disable-devtool-auto src='https://files.monytccc.eu.org/inspect-block.txt'></script>
    <script>
       function asu() {
         var alter = window.location.href;
