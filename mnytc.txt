@@ -81,6 +81,17 @@
     </div>
   <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
     <div class="mnytc-padding-64 mnytc-center">
+      <h1>Weather</h1>
+      <img src="https://files.mnytc.com/weather.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">Weather mnytc is the perfect weather app for those who want accurate and up-to-date weather information for their location. The app is easy to use and offers many useful features, making it a great choice for personal and business users. Weather mnytc uses weather data from many trusted sources, such as the National Oceanic and Atmospheric Administration and the National Oceanic and Atmospheric Administration. This ensures that the weather information you receive is accurate and up to date.</p>
+        </div>
+        <a href="https://weather.mnytc.com/"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Weather</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
       <h1>Telegram</h1>
       <img src="https://files.mnytc.com/telegeram.png" alt="Monytccc" draggable="false" >
       <div class="mnytc-left-align mnytc-padding-large">
