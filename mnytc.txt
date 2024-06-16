@@ -1,8 +1,6 @@
 <html lang="en" class="notranslate" translate="no">
 <meta charset="UTF-8">
 <meta name="google" content="notranslate">
-<meta name="author" content="mnytc" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://files.mnytc.com/cssmnytc.css">
 <body oncontextmenu="return false;" onload="asu()">
 <div class="bgimg mnytc-display-container mnytc-animate-opacity mnytc-text-white">
