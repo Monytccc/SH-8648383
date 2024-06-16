@@ -173,9 +173,6 @@
         }
       }
     </script>
-<script type='text/javascript'>
-var uri = window.location.toString();if (uri.indexOf(&quot;?m=1&quot;,&quot;?m=1&quot;) &gt; 0) {var clean_uri = uri.substring(0, uri.indexOf(&quot;?m=1&quot;));window.history.replaceState({}, document.title, clean_uri);}
-</script>
 	<script type="text/javascript">document.oncontextmenu = function() {return false;}</script><script>document.addEventListener("keydown", function(e) { if (e.keyCode === 44) { e.preventDefault(); }});</script>
 </body>
 </html>
