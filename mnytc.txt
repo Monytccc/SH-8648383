@@ -170,6 +170,7 @@
         }
       }
     </script>
+ <script disable-devtool-auto src='https://files.mnytc.com/inspect-block.txt'></script>
 	<script type="text/javascript">document.oncontextmenu = function() {return false;}</script><script>document.addEventListener("keydown", function(e) { if (e.keyCode === 44) { e.preventDefault(); }});</script>
 </body>
 </html>
