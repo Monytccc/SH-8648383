@@ -158,7 +158,6 @@
     <div class="copyright">
     Copyright © 2015 <a href="https://www.mnytc.com/" target="_blank"> Monytccc</a>
   </div>
-<script disable-devtool-auto src='https://files.mnytc.com/inspect-block.txt'></script>
    <script>
       function asu() {
         var alter = window.location.href;
