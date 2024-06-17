@@ -39,7 +39,7 @@
         <p id="p">An Internet Protocol Address (or IP address for short) is a numeric label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses have two main functions: host or network interface identification and location addressing.</p>
         <p id="p">Internet Protocol version 4 (IPv4) defines an IP address as a 32-bit number. However, due to the growth of the Internet and the depletion of available IPv4 addresses, a new version of IP (IPv6), using 128 bits for IP addresses, was standardized in 1998. The deployment of IPv6 has been going on since the mid-2000s.</p>
         </div>
-        <a href="https://cyber.mnytc.com/p/ip.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">IP You</button></a>
+        <a href="https://ip.mnytc.com"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">IP You</button></a>
         </div>
         <hr class="mnytc-border-grey" style="margin:auto;width:100%">
     </div>
