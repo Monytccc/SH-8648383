@@ -41,7 +41,7 @@ def main():
         else:
             print(f"Error: {response.status_code}")
 
-        time.sleep(1000)  # Tunggu 1 detik sebelum mengulang permintaan
+        time.sleep(1800)  # Tunggu 1 detik sebelum mengulang permintaan
 
 if __name__ == "__main__":
     main()
