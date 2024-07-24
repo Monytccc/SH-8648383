@@ -123,6 +123,28 @@
     </div>
   <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
     <div class="mnytc-padding-64 mnytc-center">
+      <h1>Trading</h1>
+      <img src="https://files.mnytc.com/Trading.jpeg" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">Trading is a form of active financial investment, where investors carry out transactions in the market. Trading involves buying and selling assets, such as stocks, bonds, currencies, and commodities, with the aim of making a profit. Traders hope they make a profit in the next few minutes, hours, days, or months.</p>
+        </div>
+        <a href="https://trading.mnytc.com"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Trading</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
+      <h1>Virus</h1>
+      <img src="https://files.mnytc.com/virus.png" alt="Monytccc" draggable="false" >
+      <div class="mnytc-left-align mnytc-padding-large">
+        <p id="p">A computer virus is a type of malicious software (malware) designed to damage a computer system or the data stored in it. Computer viruses can spread from one computer to another and disrupt computer operation. Computer viruses can damage data in documents, make computer users feel annoyed, or have no effect at all.</p>
+        </div>
+        <a href="https://virus.mnytc.com"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Virus</button></a>
+        </div>
+        <hr class="mnytc-border-grey" style="margin:auto;width:100%">
+    </div>
+  <div class="mnytc-half mnytc-black mnytc-container" style="height:auto;width:100%">
+    <div class="mnytc-padding-64 mnytc-center">
       <h1>Maps</h1>
       <img src="https://files.mnytc.com/maps.png" alt="Monytccc" draggable="false" >
       <div class="mnytc-left-align mnytc-padding-large">
