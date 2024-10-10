@@ -162,7 +162,7 @@
       <div class="mnytc-left-align mnytc-padding-large">
         <p id="p">A privacy policy, often known as a privacy statement, is one of the pages that every website and blog must have. A website's privacy policy guides how it handles visitor information. What information was retrieved and for what purpose was it used?</p>
         </div>
-        <a href="https://cyber.mnytc.com/p/privacy-policy.html"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Privacy Policy</button></a>
+        <a href="https://privacy-policy.mnytc.com/"><button  class="mnytc-button mnytc-black mnytc-padding-large mnytc-large mnytc-margin-top">Privacy Policy</button></a>
         </div>
         <hr class="mnytc-border-grey" style="margin:auto;width:100%">
     </div>
