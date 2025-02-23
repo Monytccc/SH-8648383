@@ -192,6 +192,6 @@
         }
       }
     </script>
- <script disable-devtool-auto src='https://files.mnytc.com/inspect-block.txt'></script>
+ <script disable-devtool-auto src='https://files.mnytc.com/inspect-block-version1.2.txt'></script>
 </body>
 </html>
